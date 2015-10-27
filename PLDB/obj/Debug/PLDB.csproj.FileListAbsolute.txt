@@ -1,0 +1,8 @@
+C:\Users\pper\Documents\Visual Studio 2013\Projects\PLDB\PLDB\bin\Debug\PLDB.exe
+C:\Users\pper\Documents\Visual Studio 2013\Projects\PLDB\PLDB\bin\Debug\PLDB.pdb
+C:\Users\pper\Documents\Visual Studio 2013\Projects\PLDB\PLDB\bin\Debug\System.Data.SQLite.dll
+C:\Users\pper\Documents\Visual Studio 2013\Projects\PLDB\PLDB\obj\Debug\PLDB.Form1.resources
+C:\Users\pper\Documents\Visual Studio 2013\Projects\PLDB\PLDB\obj\Debug\PLDB.Properties.Resources.resources
+C:\Users\pper\Documents\Visual Studio 2013\Projects\PLDB\PLDB\obj\Debug\PLDB.csproj.GenerateResource.Cache
+C:\Users\pper\Documents\Visual Studio 2013\Projects\PLDB\PLDB\obj\Debug\PLDB.exe
+C:\Users\pper\Documents\Visual Studio 2013\Projects\PLDB\PLDB\obj\Debug\PLDB.pdb
